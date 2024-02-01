@@ -28,3 +28,7 @@ add-> this is use to add to new file wich is we are working directory
    command---> git add<file name>;
    git commit m-"somemasse about the change of diretory"
    
+push the code int our github-->git push origin main
+to back to the folder use -->cd ..
+to creatre the the new folder using terminal-->mkdir {file name};
+to create git repo--> git init
