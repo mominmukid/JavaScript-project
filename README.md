@@ -29,6 +29,12 @@ add-> this is use to add to new file wich is we are working directory
    git commit m-"somemasse about the change of diretory"
    
 push the code int our github-->git push origin main
-to back to the folder use -->cd ..
-to creatre the the new folder using terminal-->mkdir {file name};
-to create git repo--> git init
+-to back to the folder use -->cd ..
+-to creatre the the new folder using terminal-->mkdir {file name};
+-to create git repo--> git init
+-to create new origin or jump another repo we use->git remote add origin {link of the repo};
+-to cheak the we are which repo-->git remote -v
+-to change our branch name -->git -m {name of the branch}
+-to cheak we are which branch-->git branch
+-to short the our origin main -->git push -u origin main/ then only type get push
+-
